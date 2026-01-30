@@ -3,7 +3,7 @@
 # for more instructions.
 
 board:
-  name: wem
+  name: WEM
   socs:
     - name: nrf52840
 

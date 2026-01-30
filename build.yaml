@@ -5,10 +5,11 @@
 # pass flags to the build command, `snippet` to add a Zephyr snippet, and
 # `artifact-name` to assign a name to distinguish build outputs from each other:
 #
-board: ["wem"]
+board: ["WEM"]
 include:
-  - board: wem
+  - board: WEM
     snippet: studio-rpc-usb-uart
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: wem_with_studio
 #
+  - board: wem
