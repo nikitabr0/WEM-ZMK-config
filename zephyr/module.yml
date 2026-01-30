@@ -1,3 +1,5 @@
+name: zmk-mouse-wem
+
 build:
   settings:
     board_root: .
