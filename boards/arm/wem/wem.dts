@@ -35,6 +35,7 @@
             , <&gpio0 12 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             , <&gpio0 13 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
             , <&gpio0 14 (GPIO_ACTIVE_LOW | GPIO_PULL_UP)>
+            ;
     };
 
     default_transform: default_transform {
