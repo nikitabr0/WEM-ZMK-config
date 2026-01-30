@@ -2,7 +2,7 @@
 # See https://docs.zephyrproject.org/4.1.0/develop/test/twister.html#board-configuration
 # for more information.
 
-identifier: wem
+identifier: WEM
 name: WEM
 type: mcu
 arch: arm
