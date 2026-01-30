@@ -20,7 +20,6 @@ features:
 outputs:
   - usb
   - ble
-  - dongle
 # If your board has multiple revisions in its board.yml, create a matching list here:
 # revisions:
 #   - 2.0.0
