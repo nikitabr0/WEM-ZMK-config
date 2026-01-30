@@ -12,4 +12,3 @@ include:
     cmake-args: -DCONFIG_ZMK_STUDIO=y
     artifact-name: wem_with_studio
 #
-  - board: wem
