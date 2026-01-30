@@ -3,7 +3,7 @@
 # for instructions.
 
 file_format: "1"
-id: WEM
+id: wem
 name: WEM
 type: board
 arch: arm
