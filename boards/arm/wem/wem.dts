@@ -57,7 +57,7 @@
 
     vbatt: vbatt {
         compatible = "voltage-divider";
-        io-channels = <&ain0>;
+        io-channels = <&gpio0 2>;
         output-ohms = <10000000>;
         full-ohms = <(10000000 + 4000000)>;
     };
@@ -77,7 +77,7 @@
 //     regulator-initial-mode = <NRF5X_REG_MODE_DCDC>;
 // };
 
-&adc {
+&gpio0 2 {
     status = "okay";
 };
 
