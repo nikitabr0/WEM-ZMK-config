@@ -3,7 +3,8 @@
 # for more instructions.
 
 board:
-  name: WEM
+  name: wem
+  vendor: nikitabr0
   socs:
     - name: nrf52840
 

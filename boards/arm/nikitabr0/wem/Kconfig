@@ -4,9 +4,6 @@
 
 if BOARD_WEM
 
-
-config ZMK_STUDIO
-    default y
 # Define any board-specific Kconfig options here.
 # If there are none, you may delete this file.
 
